@@ -18,3 +18,18 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukaszziel&show_icons=true&locale=en&layout=compact" alt="lukaszziel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukaszziel&show_icons=true&locale=en" alt="lukaszziel" /></p>
+
+<h3 align="left">My current stack:</h3>
+
+- Java
+- Spring framework
+- react
+- Junit and Cucumber for testing
+- microservices architecture
+- Helm
+- K8S
+- Terraform
+- Google Cloud Platform
+- Gradle as a build tool
+- Docker
+- Postgresql dbms
